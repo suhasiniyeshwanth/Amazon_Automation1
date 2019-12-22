@@ -1,0 +1,17 @@
+allure-pytest==2.8.6
+allure-python-commons==2.8.6
+keyboard==0.13.3
+numpy==1.17.0
+openpyxl==2.6.2
+pandas==0.25.0
+Pillow==6.1.0
+PyAutoGUI==0.9.47
+PyAutoIt==0.4
+pyjavaproperties==0.7
+pytest==5.0.1
+pytest-forked==1.0.2
+pytest-xdist==1.29.0
+selenium==3.141.0
+six==1.12.0
+xlrd==1.2.0
+XlsxWriter==1.1.8
